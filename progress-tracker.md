@@ -1,7 +1,19 @@
 # 📊 Progress Tracker
 
+## Weekly Progress
+
 Day 1 ✅  
 Day 2 ✅  
 Day 3 ❌  
+Day 4 ✅  
 
-Goal: Stay consistent
+---
+
+## Rules
+- Do at least 1 task daily
+- Don’t skip twice
+
+---
+
+## Notes
+Write how you felt or what you did each day.
